@@ -41,8 +41,8 @@ form input, form textarea{
 }
 form button{
     padding: 15px;
-    background: #ff5361;
-    color: #fff;
+    background: yellowgreen ;
+    color: #000;
     font-size: 18px;
     border: 0;
     outline: none;
@@ -50,6 +50,7 @@ form button{
     width: 150px;
     margin: 20px auto 0;
     border-radius: 30px;
+    box-shadow: 2px 0 15px 0;
 }
 
 
